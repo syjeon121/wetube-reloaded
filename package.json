@@ -1,0 +1,19 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syjeon121/wetube-reloaded.git"
+  },
+  "author": "syjeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syjeon121/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/syjeon121/wetube-reloaded#readme"
+}
